@@ -7,7 +7,7 @@ from colorama import Fore
 
 def space():
     print()
-system("cls") # le clear
+system("cls")
 def __main__():
     print(Fore.CYAN + """
                     __  __  _____    _____ _____        __  __ __  __ ______ _____  
