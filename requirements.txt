@@ -1,3 +1,5 @@
 os
 time
 colorama
+keyboard
+mouse
