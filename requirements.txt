@@ -1,5 +1,5 @@
-os
-time
+os-sys
+python-time
 colorama
 keyboard
 mouse
